@@ -1,3 +1,3 @@
-# Analisis-de-componentes-principales-y-procesamiento-de-lenguaje
+# Analisis de componentes principales y procesamiento de lenguaje - Metodos Numericos
 En este trabajo se implementaron algoritmos de KNN (k - nearest neighbors), Método de la Potencia con Deflación, y Análisis de Componentes Principales (PCA). Con las mismas, se desarrolló un clasificador de películas, el cual se buscó mejorar mediante la exploración de los hiper-parámetros k de KNN y p de PCA. Esto nos lleva a una versión del clasificador que transforma los datos para trabajar con matrices de menor tamaño. Gracias a esto, podemos tener un clasificador de películas que a costo de tener que preprocesar los datos, puede realizar predicciones suficientemente buenas con datos más pequeños.
 
